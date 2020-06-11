@@ -20,5 +20,5 @@ Solutions to LeetCode problems for future reference and helping others.
 
 ### More Info
 
-Visit [leetcode.com](https://leetcode.com) for more info.
+Visit [LeetCode](https://leetcode.com) for more info.
 
