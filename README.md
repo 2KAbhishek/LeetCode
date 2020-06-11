@@ -9,9 +9,16 @@
 ![Contributors](https://img.shields.io/github/contributors/2kabhishek/LeetCode?style=plastic&color=ff69b4&label=Contributors)
 ![Followers](https://img.shields.io/github/followers/2kabhishek?style=plastic&color=blue&label=Followers)
 
-Solutions to LeetCode problems for future refeernce and helping others.
+Solutions to LeetCode problems for future reference and helping others.
 
-## Prerequisites
+## Languages Used
 
+- [Bash](./Bash)
+- [C](./C)
+- [JavaScript](./JavaScript)
+- [Python](./Python)
 
 ### More Info
+
+Visit [leetcode.com](https://leetcode.com) for more info.
+
