@@ -1,5 +1,3 @@
-<div align="center">
-
 # LeetCode
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/LeetCode?style=plastic&color=0f0&label=Size)
@@ -12,7 +10,6 @@
 
 Solutions to LeetCode problems for future reference and helping others.
 
-</div>
 
 
 
@@ -23,7 +20,6 @@ Solutions to LeetCode problems for future reference and helping others.
 - [JavaScript](./JavaScript)
 - [Python](./Python)
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
 ### More Info
 
