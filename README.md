@@ -10,9 +10,6 @@
 
 Solutions to LeetCode problems for future reference and helping others.
 
-
-
-
 ## Languages Used
 
 - [Bash](./Bash)
@@ -20,8 +17,6 @@ Solutions to LeetCode problems for future reference and helping others.
 - [JavaScript](./JavaScript)
 - [Python](./Python)
 
-
 ### More Info
 
 Visit [LeetCode](https://leetcode.com) for more info.
-
