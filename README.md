@@ -14,6 +14,7 @@ Solutions to LeetCode problems for future reference and helping others.
 
 - [Bash](./Bash)
 - [C](./C)
+- [C++](./C++)
 - [Java](./Java)
 - [JavaScript](./JavaScript)
 - [Python](./Python)
@@ -21,3 +22,4 @@ Solutions to LeetCode problems for future reference and helping others.
 ### More Info
 
 Visit [LeetCode](https://leetcode.com) for more info.
+
